@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "@Flight Status To verify the flight status of current day - Component header verification",
+    "uid" : "3ae996375177fc3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627856894210,
+      "stop" : 1627856913985,
+      "duration" : 19775
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "@Flight Status To verify the flight status of current day - Flight Status Panel verification",
+    "uid" : "6e4baba2fb83a7f7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627856913985,
+      "stop" : 1627856935580,
+      "duration" : 21595
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "Verify Flight status of current day and next 3 days by selecting date from the calendar",
+    "uid" : "c0e4ae9df20e9d47",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627856935581,
+      "stop" : 1627856943622,
+      "duration" : 8041
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "Verify Flight status of current day and previous three days by selecting date from the calander",
+    "uid" : "11eb4e5fdbfc4ef2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627856943622,
+      "stop" : 1627856976991,
+      "duration" : 33369
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "@Flight Status - To verify the Flight Status of previos day - Verify the Flight status Panel",
+    "uid" : "ceed7d1c7b39aa7f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627856976992,
+      "stop" : 1627856991481,
+      "duration" : 14489
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "To verify the Flight Status of Next day - Verify the Flight status Panel",
+    "uid" : "85c1f7b7b961a86d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627856991482,
+      "stop" : 1627857003910,
+      "duration" : 12428
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "To verify the flight status by flight no - Verify the Flight Status Panel",
+    "uid" : "109813b2d865f96c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627857007105,
+      "stop" : 1627857028324,
+      "duration" : 21219
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  }, {
+    "name" : "To validate search button for mandatory field selection",
+    "uid" : "3d6ea7891e9465c1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627857030972,
+      "stop" : 1627857038222,
+      "duration" : 7250
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-92.0.4515.107" ]
+  } ]
+}

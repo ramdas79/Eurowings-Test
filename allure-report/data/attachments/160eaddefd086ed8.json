@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".o-search-flight-status__flight-list-cards .o-search-flight-status__card:nth-child(1) .o-search-flight-status__card-info-group:nth-child(3) div:nth-child(2)"
+}

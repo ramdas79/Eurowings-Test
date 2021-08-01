@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".o-search-flight-status__date-navigation.t-spacing--6 .o-search-flight-status__date-navigation__list li:nth-child(6)"
+}

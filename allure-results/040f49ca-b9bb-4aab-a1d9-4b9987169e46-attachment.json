@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".o-search-flight-status__flight-search__form >div:nth-child(1) >div:nth-child(1) >div:nth-child(2) .o-compact-search__cta-button"
+}

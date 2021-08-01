@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".m-fieldset-radio-group .m-fieldset-radio-group__content .m-fieldset-radiobutton:nth-child(2) .m-form-radiobutton__input"
+}

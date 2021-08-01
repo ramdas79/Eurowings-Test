@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[class='a-cta a-cta-prio1'] span[class='a-cta__container']"
+}

@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".a-input-text__input.m-form-autocomplete__input-field.a-input-text__input--deco-icon\"}\n  (Session info: chrome=92.0.4515.107)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x002F5843+2512963]\n\tOrdinal0 [0x0028EED1+2092753]\n\tOrdinal0 [0x00191F48+1056584]\n\tOrdinal0 [0x001BC70B+1230603]\n\tOrdinal0 [0x001E6442+1401922]\n\tOrdinal0 [0x001D562A+1332778]\n\tOrdinal0 [0x001E487F+1394815]\n\tOrdinal0 [0x001D54BB+1332411]\n\tOrdinal0 [0x001B1D14+1187092]\n\tOrdinal0 [0x001B2B79+1190777]\n\tGetHandleVerifier [0x00470C56+1501718]\n\tGetHandleVerifier [0x0051E97F+2213695]\n\tGetHandleVerifier [0x00378C92+485970]\n\tGetHandleVerifier [0x00377D59+482073]\n\tOrdinal0 [0x0029471D+2115357]\n\tOrdinal0 [0x00298678+2131576]\n\tOrdinal0 [0x002987B2+2131890]\n\tOrdinal0 [0x002A1971+2169201]\n\tBaseThreadInitThunk [0x76C9FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x76ED7A7E+286]\n\tRtlGetAppContainerNamedObjectPath [0x76ED7A4E+238]\n\t(No symbol) [0x00000000]\n"
+}
